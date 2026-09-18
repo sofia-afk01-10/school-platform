@@ -15,7 +15,7 @@
 ## Стек
 
 - **Backend:** C# / ASP.NET Core
-- **Frontend:** Blazor (TBD)
+- **Frontend:** React
 - **БД:** PostgreSQL
 - **ORM:** Entity Framework Core + Npgsql
 - **Realtime:** SignalR
